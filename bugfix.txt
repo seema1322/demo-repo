@@ -1,1 +1,0 @@
-We have fixed the bug in 3.0
